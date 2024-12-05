@@ -1,0 +1,2 @@
+# shaik-jahangir
+basic code
